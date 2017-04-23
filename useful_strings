@@ -1,0 +1,21 @@
+
+
+
+ssh c1472860@ravenlogin.arcca.cf.ac.uk
+
+
+
+module load compiler/gnu-4.9.1
+
+
+
+
+
+
+
+#####################################################
+
+
+git add FILE
+git commit -m 'comment'
+git push origin master 
